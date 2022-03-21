@@ -1,1 +1,2 @@
 # rsst
+Blog of RRP
